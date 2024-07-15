@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python
 
 # Set curl command to update the IP
 command="curl https://api.dnsexit.com/dns/ud/?apikey=T5J87Cnr5Z1VN3cOlbV11F86Rk1Ksv -d host=networkeyuel.publicvm.com"
